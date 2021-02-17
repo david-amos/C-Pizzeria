@@ -38,3 +38,44 @@ C:\IHCC\AdvancedC#WI20\C#Pizzeria\Pizzeria\obj\Debug\net5.0\ref\Pizzeria.dll
 C:\IHCC\AdvancedC#WI20\C#Pizzeria\Pizzeria\obj\Debug\net5.0\Pizzeria.pdb
 C:\IHCC\AdvancedC#WI20\C#Pizzeria\Pizzeria\obj\Debug\net5.0\Pizzeria.genruntimeconfig.cache
 C:\IHCC\AdvancedC#WI20\C#Pizzeria\Pizzeria\obj\Debug\net5.0\Pizzeria.csproj.CopyComplete
+C:\Users\Tyler\Desktop\Winter Term 2020\Advanced C#\Unit8Github\part2\C-Pizzeria\Pizzeria\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Tyler\Desktop\Winter Term 2020\Advanced C#\Unit8Github\part2\C-Pizzeria\Pizzeria\bin\Debug\net5.0\appsettings.json
+C:\Users\Tyler\Desktop\Winter Term 2020\Advanced C#\Unit8Github\part2\C-Pizzeria\Pizzeria\bin\Debug\net5.0\Pizzeria.exe
+C:\Users\Tyler\Desktop\Winter Term 2020\Advanced C#\Unit8Github\part2\C-Pizzeria\Pizzeria\bin\Debug\net5.0\Pizzeria.deps.json
+C:\Users\Tyler\Desktop\Winter Term 2020\Advanced C#\Unit8Github\part2\C-Pizzeria\Pizzeria\bin\Debug\net5.0\Pizzeria.runtimeconfig.json
+C:\Users\Tyler\Desktop\Winter Term 2020\Advanced C#\Unit8Github\part2\C-Pizzeria\Pizzeria\bin\Debug\net5.0\Pizzeria.runtimeconfig.dev.json
+C:\Users\Tyler\Desktop\Winter Term 2020\Advanced C#\Unit8Github\part2\C-Pizzeria\Pizzeria\bin\Debug\net5.0\Pizzeria.dll
+C:\Users\Tyler\Desktop\Winter Term 2020\Advanced C#\Unit8Github\part2\C-Pizzeria\Pizzeria\bin\Debug\net5.0\ref\Pizzeria.dll
+C:\Users\Tyler\Desktop\Winter Term 2020\Advanced C#\Unit8Github\part2\C-Pizzeria\Pizzeria\bin\Debug\net5.0\Pizzeria.pdb
+C:\Users\Tyler\Desktop\Winter Term 2020\Advanced C#\Unit8Github\part2\C-Pizzeria\Pizzeria\bin\Debug\net5.0\Pizzeria.Views.dll
+C:\Users\Tyler\Desktop\Winter Term 2020\Advanced C#\Unit8Github\part2\C-Pizzeria\Pizzeria\bin\Debug\net5.0\Pizzeria.Views.pdb
+C:\Users\Tyler\Desktop\Winter Term 2020\Advanced C#\Unit8Github\part2\C-Pizzeria\Pizzeria\obj\Debug\net5.0\Pizzeria.csprojAssemblyReference.cache
+C:\Users\Tyler\Desktop\Winter Term 2020\Advanced C#\Unit8Github\part2\C-Pizzeria\Pizzeria\obj\Debug\net5.0\Pizzeria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tyler\Desktop\Winter Term 2020\Advanced C#\Unit8Github\part2\C-Pizzeria\Pizzeria\obj\Debug\net5.0\Pizzeria.AssemblyInfoInputs.cache
+C:\Users\Tyler\Desktop\Winter Term 2020\Advanced C#\Unit8Github\part2\C-Pizzeria\Pizzeria\obj\Debug\net5.0\Pizzeria.AssemblyInfo.cs
+C:\Users\Tyler\Desktop\Winter Term 2020\Advanced C#\Unit8Github\part2\C-Pizzeria\Pizzeria\obj\Debug\net5.0\Pizzeria.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\Desktop\Winter Term 2020\Advanced C#\Unit8Github\part2\C-Pizzeria\Pizzeria\obj\Debug\net5.0\Pizzeria.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tyler\Desktop\Winter Term 2020\Advanced C#\Unit8Github\part2\C-Pizzeria\Pizzeria\obj\Debug\net5.0\Pizzeria.RazorAssemblyInfo.cache
+C:\Users\Tyler\Desktop\Winter Term 2020\Advanced C#\Unit8Github\part2\C-Pizzeria\Pizzeria\obj\Debug\net5.0\Pizzeria.RazorAssemblyInfo.cs
+C:\Users\Tyler\Desktop\Winter Term 2020\Advanced C#\Unit8Github\part2\C-Pizzeria\Pizzeria\obj\Debug\net5.0\staticwebassets\Pizzeria.StaticWebAssets.Manifest.cache
+C:\Users\Tyler\Desktop\Winter Term 2020\Advanced C#\Unit8Github\part2\C-Pizzeria\Pizzeria\obj\Debug\net5.0\staticwebassets\Pizzeria.StaticWebAssets.xml
+C:\Users\Tyler\Desktop\Winter Term 2020\Advanced C#\Unit8Github\part2\C-Pizzeria\Pizzeria\obj\Debug\net5.0\scopedcss\bundle\Pizzeria.styles.css
+C:\Users\Tyler\Desktop\Winter Term 2020\Advanced C#\Unit8Github\part2\C-Pizzeria\Pizzeria\obj\Debug\net5.0\Pizzeria.TagHelpers.input.cache
+C:\Users\Tyler\Desktop\Winter Term 2020\Advanced C#\Unit8Github\part2\C-Pizzeria\Pizzeria\obj\Debug\net5.0\Pizzeria.TagHelpers.output.cache
+C:\Users\Tyler\Desktop\Winter Term 2020\Advanced C#\Unit8Github\part2\C-Pizzeria\Pizzeria\obj\Debug\net5.0\Pizzeria.RazorCoreGenerate.cache
+C:\Users\Tyler\Desktop\Winter Term 2020\Advanced C#\Unit8Github\part2\C-Pizzeria\Pizzeria\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Tyler\Desktop\Winter Term 2020\Advanced C#\Unit8Github\part2\C-Pizzeria\Pizzeria\obj\Debug\net5.0\Razor\Views\Home\pizzas.cshtml.g.cs
+C:\Users\Tyler\Desktop\Winter Term 2020\Advanced C#\Unit8Github\part2\C-Pizzeria\Pizzeria\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Tyler\Desktop\Winter Term 2020\Advanced C#\Unit8Github\part2\C-Pizzeria\Pizzeria\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Tyler\Desktop\Winter Term 2020\Advanced C#\Unit8Github\part2\C-Pizzeria\Pizzeria\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Tyler\Desktop\Winter Term 2020\Advanced C#\Unit8Github\part2\C-Pizzeria\Pizzeria\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Tyler\Desktop\Winter Term 2020\Advanced C#\Unit8Github\part2\C-Pizzeria\Pizzeria\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Tyler\Desktop\Winter Term 2020\Advanced C#\Unit8Github\part2\C-Pizzeria\Pizzeria\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Tyler\Desktop\Winter Term 2020\Advanced C#\Unit8Github\part2\C-Pizzeria\Pizzeria\obj\Debug\net5.0\Pizzeria.RazorTargetAssemblyInfo.cache
+C:\Users\Tyler\Desktop\Winter Term 2020\Advanced C#\Unit8Github\part2\C-Pizzeria\Pizzeria\obj\Debug\net5.0\Pizzeria.RazorTargetAssemblyInfo.cs
+C:\Users\Tyler\Desktop\Winter Term 2020\Advanced C#\Unit8Github\part2\C-Pizzeria\Pizzeria\obj\Debug\net5.0\Pizzeria.Views.pdb
+C:\Users\Tyler\Desktop\Winter Term 2020\Advanced C#\Unit8Github\part2\C-Pizzeria\Pizzeria\obj\Debug\net5.0\Pizzeria.dll
+C:\Users\Tyler\Desktop\Winter Term 2020\Advanced C#\Unit8Github\part2\C-Pizzeria\Pizzeria\obj\Debug\net5.0\ref\Pizzeria.dll
+C:\Users\Tyler\Desktop\Winter Term 2020\Advanced C#\Unit8Github\part2\C-Pizzeria\Pizzeria\obj\Debug\net5.0\Pizzeria.pdb
+C:\Users\Tyler\Desktop\Winter Term 2020\Advanced C#\Unit8Github\part2\C-Pizzeria\Pizzeria\obj\Debug\net5.0\Pizzeria.genruntimeconfig.cache
+C:\Users\Tyler\Desktop\Winter Term 2020\Advanced C#\Unit8Github\part2\C-Pizzeria\Pizzeria\obj\Debug\net5.0\Pizzeria.csproj.CopyComplete
