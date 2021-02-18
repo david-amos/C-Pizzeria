@@ -35,99 +35,115 @@
         float: right;
     }
 </style>
-
-<div class="text-center">
-    <div class="grid-container">
-
-
-        <div class="grid-child Pizza">
-            <p> Meat Lovers Pizza: It's got all the meat in the world, cat, rat, dog, horse, fox, bear, fish, if you can name it its on it </p>
-        </div> <!--Pizza end -->
-
-        <div class="grid-child Cost">
-            <p>
-                <input type="radio" id="small" name="pizzasize" value="small">
-                <label for="small">Small</label>
-                <input type="radio" id="medium" name="pizzasize" value="medium">
-                <label for="medium">Medium</label>
-                <input type="radio" id="Large" name="pizzasize" value="Large">
-                <label for="large">Large</label>
-            </p>
-            <!--add code here for counter -->
-        </div> <!--Cost and counter end -->
-
-        <div class="grid-child Pizza">
-            <p> Vegan Pizza: A pizza for those that hate the Meat Lovers Pizza</p>
-        </div> <!--Pizza end -->
-
-        <div class="grid-child Cost">
-            <p>
-                <input type="radio" id="small" name="pizzasize" value="small">
-                <label for="small">Small</label>
-                <input type="radio" id="medium" name="pizzasize" value="medium">
-                <label for="medium">Medium</label>
-                <input type="radio" id="Large" name="pizzasize" value="Large">
-                <label for="large">Large</label>
-            </p>
-            <!--add code here for counter -->
-        </div> <!--Cost and counter end -->
-
-        <div class="grid-child Pizza">
-            <p> Taco Pizza: A pizza that has all the tasty parts of a taco</p>
-        </div> <!--Pizza end -->
-
-        <div class="grid-child Cost">
-            <p>
-                <input type="radio" id="small" name="pizzasize" value="small">
-                <label for="small">Small</label>
-                <input type="radio" id="medium" name="pizzasize" value="medium">
-                <label for="medium">Medium</label>
-                <input type="radio" id="Large" name="pizzasize" value="Large">
-                <label for="large">Large</label>
-            </p>
-            <!--add code here for counter -->
-        </div> <!--Cost and counter end -->
-
-        <div class="grid-child Pizza">
-            <p> Breakfast Pizza: Egg, bacon, and gravy is what makes this masterpiece</p>
-        </div> <!--Pizza end -->
-
-        <div class="grid-child Cost">
-            <p>
-                <input type="radio" id="small" name="pizzasize" value="small">
-                <label for="small">Small</label>
-                <input type="radio" id="medium" name="pizzasize" value="medium">
-                <label for="medium">Medium</label>
-                <input type="radio" id="Large" name="pizzasize" value="Large">
-                <label for="large">Large</label>
-            </p>
-        </div> <!--Cost end -->
+​​<form class="text-center" method="post" asp-controller="Home" asp-action="orderPage">
+    <div class="text-center">
+        <h1>Pick a Pizza</h1>
+        <div class="grid-container">
 
 
+            <div class="grid-child Pizza">
+                <p> Meat Lovers Pizza: It's got all the meat in the world, cat, rat, dog, horse, fox, bear, fish, if you can name it its on it </p>
+            </div> <!--Pizza end -->
+
+            <div class="grid-child Cost">
+                <p>
+                    <input type="radio" class="pizzaname" name="pizzaname" value="Meat Lovers" onclick="hideclick()">
+                    
+                </p>
+                <!--add code here for counter -->
+            </div> <!--Cost and counter end -->
+
+            <div class="grid-child Pizza">
+                <p> Vegan Pizza: A pizza for those that hate the Meat Lovers Pizza</p>
+            </div> <!--Pizza end -->
+
+            <div class="grid-child Cost">
+                <p>
+                    <input type="radio" class="pizzaname" name="pizzaname" value="Vegan" onclick="hideclick()">
+                </p>
+                <!--add code here for counter -->
+            </div> <!--Cost and counter end -->
+
+            <div class="grid-child Pizza">
+                <p> Taco Pizza: A pizza that has all the tasty parts of a taco</p>
+            </div> <!--Pizza end -->
+
+            <div class="grid-child Cost">
+                <p>
+                    <input type="radio" class="pizzaname" name="pizzaname" value="Taco" onclick="hideclick()">
+                </p>
+                <!--add code here for counter -->
+            </div> <!--Cost and counter end -->
+
+            <div class="grid-child Pizza">
+                <p> Breakfast Pizza: Egg, bacon, and gravy is what makes this masterpiece</p>
+            </div> <!--Pizza end -->
+
+            <div class="grid-child Cost">
+                <p>
+                    <input type="radio" class="pizzaname" name="pizzaname" value="Breakfast" onclick="hideclick()">
+                </p>
+            </div> <!--Cost end -->
+
+
+        </div>
     </div>
-</div>
+    <script>
+        function hideclick() {
+            var checkbox = document.getElementById("Cus");
+            var hide = document.getElementById("hide");
+            if (checkbox.checked == true) {
+                hide.style.display = "block";
 
-<!--Checkbox to make form appear and disappear here-->
-<input type="checkbox" id="Cus" name="Cus" onclick="hideclick()">
-<label for="Cus">Click On the checkbox for custom pizzas</label>
+            } else {
+                hide.style.display = "none";
+            }
+        }
+    </script>
+    <h2>Pizza size</h2>
 
-<script>
-    function hideclick() {
-        var checkbox = document.getElementById("Cus");
-        var hide = document.getElementById("hide");
-        if (checkbox.checked == true) {
-            hide.style.display = "block;
-        } else {
-            hide.style.display = "none";
-    }
-</script>
+    <input type="radio" id="small" name="pizzasize" value="small">
+    <label for="small">Small</label>
+    <input type="radio" id="medium" name="pizzasize" value="medium">
+    <label for="medium">Medium</label>
+    <input type="radio" id="Large" name="pizzasize" value="Large">
+    <label for="large">Large</label>
 
-<div id="hide" style="display:none">
-    ​​<form class="text-center" method="post" runat="server">
-        <h1>CUSTOM PIZZA</h1>
-        <h2>3 Topping limit</h2>
-        <input type="checkbox" id="Top1" name="Top1" value="ExCheese">
-        <label for="Top1">Extra Cheese</label><br>
+    <!--Checkbox to make form appear and disappear here-->
+    <h2>Or, try a customized pizza: </h2>
+    <br />
+    <input type="radio" id="Cus" name="pizzaname" value="Custom" onclick="hideclick()">
+    <label for="Cus">Click here for custom pizzas</label>
+
+
+
+    <div runat="server" id="hide" style="display:none">
+
+        <h1>CUSTOMIZE PIZZA</h1>
+
+
+
+        <h2>Cheese</h2>
+
+        <input type="radio" name="cheese" value="Mozzarella">
+        <label for="Mozzarella">Mozzarella</label>
+        <input type="radio" name="cheese" value="Cheddar">
+        <label for="Cheddar">Cheddar</label>
+        <input type="radio" name="cheese" value="Swiss">
+        <label for="Swiss">Swiss</label>
+
+        <h2>Crust</h2>
+
+        <input type="radio" name="crust" value="Thin">
+        <label for="Thin">Thin</label>
+        <input type="radio" name="crust" value="Thick">
+        <label for="Thick">Thick</label>
+        <input type="radio" name="crust" value="Stuffed">
+        <label for="Stuffed">Stuffed ($1 extra)</label>
+
+        <h2>Toppings ($1 each)</h2>
+
+
 
         <input type="checkbox" id="Top2" name="Top2" value="Sausage">
         <label for="Top2">Sausage</label><br>
@@ -180,9 +196,11 @@
         <input type="checkbox" id="Top18" name="Top18" value="Chicken">
         <label for="Top18">Chicken</label><br>
 
-        <input type="submit" value="Submit">
         <!--Make it so all checkboxs clear on button submit-->
-    </form>
-</div>
 
-<button class="text-center" type="button" href="">I'm Done!</button>
+    </div>
+    <br />
+    <input type="submit" value="Add pizza to order"/>
+</form>
+
+
