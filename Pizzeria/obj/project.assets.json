@@ -8,28 +8,25 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Tyler\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Users\\david\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tyler\\Desktop\\Winter Term 2020\\Advanced C#\\Unit8Github\\part2\\C-Pizzeria\\Pizzeria\\Pizzeria.csproj",
+      "projectUniqueName": "C:\\IHCC\\AdvancedC#WI20\\C#Pizzeria\\Pizzeria\\Pizzeria.csproj",
       "projectName": "Pizzeria",
-      "projectPath": "C:\\Users\\Tyler\\Desktop\\Winter Term 2020\\Advanced C#\\Unit8Github\\part2\\C-Pizzeria\\Pizzeria\\Pizzeria.csproj",
-      "packagesPath": "C:\\Users\\Tyler\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tyler\\Desktop\\Winter Term 2020\\Advanced C#\\Unit8Github\\part2\\C-Pizzeria\\Pizzeria\\obj\\",
+      "projectPath": "C:\\IHCC\\AdvancedC#WI20\\C#Pizzeria\\Pizzeria\\Pizzeria.csproj",
+      "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
+      "outputPath": "C:\\IHCC\\AdvancedC#WI20\\C#Pizzeria\\Pizzeria\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Tyler\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\MicroFocus.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"

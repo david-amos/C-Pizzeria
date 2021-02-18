@@ -79,3 +79,7 @@ C:\Users\Tyler\Desktop\Winter Term 2020\Advanced C#\Unit8Github\part2\C-Pizzeria
 C:\Users\Tyler\Desktop\Winter Term 2020\Advanced C#\Unit8Github\part2\C-Pizzeria\Pizzeria\obj\Debug\net5.0\Pizzeria.pdb
 C:\Users\Tyler\Desktop\Winter Term 2020\Advanced C#\Unit8Github\part2\C-Pizzeria\Pizzeria\obj\Debug\net5.0\Pizzeria.genruntimeconfig.cache
 C:\Users\Tyler\Desktop\Winter Term 2020\Advanced C#\Unit8Github\part2\C-Pizzeria\Pizzeria\obj\Debug\net5.0\Pizzeria.csproj.CopyComplete
+C:\IHCC\AdvancedC#WI20\C#Pizzeria\Pizzeria\obj\Debug\net5.0\Razor\Views\Home\pizzas.cshtml.g.cs
+C:\IHCC\AdvancedC#WI20\C#Pizzeria\Pizzeria\obj\Debug\net5.0\Razor\Views\Home\orderPage.cshtml.g.cs
+C:\IHCC\AdvancedC#WI20\C#Pizzeria\Pizzeria\obj\Debug\net5.0\Razor\Views\Home\orderConfirmation.cshtml.g.cs
+C:\IHCC\AdvancedC#WI20\C#Pizzeria\Pizzeria\obj\Debug\net5.0\Razor\Views\Home\thanks.cshtml.g.cs
